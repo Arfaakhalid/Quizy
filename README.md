@@ -4,7 +4,7 @@ Welcome to **Quizy**, your one-stop solution for creating and managing quizzes w
 
 ### **What’s Inside?**  
 
-#### ** 👩‍🏫 For Teachers**  
+####  👩‍🏫 For Teachers 
 - **Log In/Sign Up (Educational):** Secure access to all features. Can Register new teachers but with Educational e-mail check :) 
 - **View Results:** Check detailed student reports with names, subjects, scores, and timestamps.  Don't worry, you can also download the EXCEL SHEET and PDF of results!
 - **Manage Subjects:** Add, edit, or delete subjects as needed.  
@@ -21,7 +21,12 @@ Welcome to **Quizy**, your one-stop solution for creating and managing quizzes w
 
 ---
 
-### ** 💡 Technologies Used**  
+### ![Screenshot (175)](https://github.com/user-attachments/assets/77db3beb-892b-4576-85ae-fa6305b81ac2)
+![Screenshot (180)](https://github.com/user-attachments/assets/31dcdb36-6ef8-4a6e-b1ff-fc2030523fd0)
+![Screenshot (171)](https://github.com/user-attachments/assets/165ae8d7-1916-4558-848e-4f82c7b325b9)
+![Screenshot (170)](https://github.com/user-attachments/assets/42659656-e7aa-4092-8192-e2d4b0b34bcf)
+[QUIZY - PREVIEW.pdf](https://github.com/user-attachments/files/18259141/QUIZY.-.PREVIEW.pdf)
+💡 Technologies Used 
 This project is built using the following technologies:  
 - **Frontend:** HTML, CSS, Bootstrap, jQuery, JavaScript  
 - **Backend:** ASP.NET Core MVC, C#  
@@ -49,3 +54,7 @@ It’s designed to be fully responsive and works seamlessly on all devices.
 Quizy isn’t just a project; it’s a complete, ready-to-use solution for quiz management. From teachers who need an organized platform to students who want a fun way to test their skills, Quizy ticks all the boxes.  
 
 Feel free to explore, and let us know if you’re ready to take Quizy for a spin!  
+<img width="600" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/9fdfdb9f-6696-4a28-9db5-642be384b1eb" />
+![Screenshot (180)](https://github.com/user-attachments/assets/782f4a5b-1271-4b60-a178-79a2e15153be)
+![Screenshot (181)](https://github.com/user-attachments/assets/2cd36913-17eb-4749-9029-2553c2301cb0)
+[Uploading QUIZY - PREVIEW.pdf…]()
